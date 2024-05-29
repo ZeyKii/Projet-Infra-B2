@@ -130,7 +130,7 @@ Nous utiliserons des outils de gestion de projet comme **Trello** ou **Jira** po
 - Support : Offrir une assistance après le déploiement.
 - Rapport final : Documenter et clôturer le projet avec la signature du client.
 
-## 🗒️ Responsabilités
+## 🗒️ RACI
 
 | Tâches / Activités | Responsable (R) | Autorité (A)   | Consulté (C)       | Informé (I)      |
 |--------------------|-----------------|----------------|--------------------|------------------|
