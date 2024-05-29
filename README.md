@@ -82,3 +82,80 @@ Nous utiliserons des outils de gestion de projet comme **Trello** ou **Jira** po
   - Détails techniques de l'infrastructure déployée.
 - **Recette de livraison validée**
   - Documentation des tests réalisés et validation par le client.
+
+## 🗂️ Plan de Projet
+
+### 1. Définir les besoins du client
+**Objectif :** Comprendre ce que le client attend du projet.
+
+**Actions :**
+- Réunion initiale : Identifier les besoins en infrastructure et en nombre de postes clients.
+- Documenter les besoins : Spécifier les rôles des utilisateurs (Admin, Commercial, Assistant, Chef).
+- Obtenir l'approbation : Confirmer les besoins avec le client.
+
+### 2. Planification
+**Objectif :** Préparer un plan clair pour le projet.
+
+**Actions :**
+- Calendrier : Définir les étapes du projet et fixer des dates.
+- Ressources : Identifier les personnes et le matériel nécessaires.
+- Communication : Planifier des réunions régulières pour suivre l'avancement.
+
+### 3. Réalisation
+**Objectif :** Mettre en place les éléments du projet.
+
+**Actions :**
+- **Serveurs :**
+  - Installer et configurer les serveurs Windows.
+  - Configurer les rôles des utilisateurs.
+- **Postes clients :**
+  - Installer et configurer les postes clients.
+- **Sécurité :**
+  - Installer et configurer le firewall.
+  - Mettre en place les mesures de sécurité.
+
+### 4. Validation
+**Objectif :** Vérifier que tout fonctionne correctement et que le client est satisfait.
+
+**Actions :**
+- Tests : Vérifier le bon fonctionnement et la sécurité des systèmes.
+- Formation : Former les utilisateurs à utiliser les nouveaux systèmes.
+- Validation finale : Obtenir l'approbation finale du client.
+
+### 5. Clôture du projet
+**Objectif :** Terminer le projet de manière formelle.
+
+**Actions :**
+- Revue : Analyser ce qui a bien fonctionné et ce qui peut être amélioré.
+- Support : Offrir une assistance après le déploiement.
+- Rapport final : Documenter et clôturer le projet avec la signature du client.
+
+## 🗒️ Responsabilités
+
+| Tâches / Activités                 | Responsable (R)       | Autorité (A)         | Consulté (C)             | Informé (I)          |
+|------------------------------------|-----------------------|----------------------|--------------------------|----------------------|
+| **1. Définir les besoins du client** |                       |                      |                          |                      |
+| Réunion initiale                  | Fournisseur           | Fournisseur          | Client, Fournisseur      | Client               |
+| Documenter les besoins             | Fournisseur           | Fournisseur          | Client                   | Fournisseur          |
+| Obtenir l'approbation              | Fournisseur           | Client               | Fournisseur              | Fournisseur          |
+| **2. Planification**               |                       |                      |                          |                      |
+| Calendrier                         | Fournisseur           | Fournisseur          | Fournisseur              | Client               |
+| Ressources                         | Fournisseur           | Fournisseur          | Fournisseur              | Client               |
+| Communication                      | Fournisseur           | Fournisseur          | Fournisseur              | Client               |
+| **3. Réalisation**                 |                       |                      |                          |                      |
+| **Serveurs**                       |                       |                      |                          |                      |
+| Installer et configurer les serveurs Windows | Fournisseur           | Fournisseur          | Fournisseur              | Client               |
+| Configurer les rôles des utilisateurs | Fournisseur           | Fournisseur          | Fournisseur              | Client               |
+| **Postes clients**                 |                       |                      |                          |                      |
+| Installer et configurer les postes clients | Fournisseur           | Fournisseur          | Fournisseur              | Client               |
+| **Sécurité**                       |                       |                      |                          |                      |
+| Installer et configurer le firewall | Fournisseur           | Fournisseur          | Fournisseur              | Client               |
+| Mettre en place les mesures de sécurité | Fournisseur           | Fournisseur          | Fournisseur              | Client               |
+| **4. Validation**                  |                       |                      |                          |                      |
+| Tests                              | Fournisseur           | Fournisseur          | Fournisseur              | Client               |
+| Formation                          | Fournisseur           | Fournisseur          | Fournisseur              | Client               |
+| Validation finale                  | Fournisseur           | Client               | Fournisseur              | Fournisseur          |
+| **5. Clôture du projet**           |                       |                      |                          |                      |
+| Revue                              | Fournisseur           | Fournisseur          | Fournisseur, Client      | Client               |
+| Support                            | Fournisseur           | Fournisseur          | Fournisseur, Client      | Client               |
+| Rapport final                      | Fournisseur           | Fournisseur          | Fournisseur, Client      | Client               |
