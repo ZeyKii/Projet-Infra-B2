@@ -5,22 +5,11 @@
 1. [Objectif](#-objectif)
 2. [Équipe](#️-équipe)
 3. [Phases du Projet](#-phases-du-projet)
-   - [Planification Initiale](#-planification-initiale)
-   - [Conception de l'Infrastructure Cloud](#️-conception-de-linfrastructure-cloud)
-   - [Mise en Œuvre](#-mise-en-œuvre)
-   - [Sécurité et Gestion](#️-sécurité-et-gestion)
-   - [Test et Validation](#-test-et-validation)
-   - [Livraison et Déploiement Final](#-livraison-et-déploiement-final)
 4. [Suivi et Rapport](#-suivi-et-rapport)
 5. [Livrables](#-livrables)
 6. [Plan de Projet](#️-plan-de-projet)
-   - [Définir les besoins du client](#1-définir-les-besoins-du-client)
-   - [Planification](#2-planification)
-   - [Réalisation](#3-réalisation)
-   - [Validation](#4-validation)
-   - [Clôture du projet](#5-clôture-du-projet)
 7. [RACI](#️-raci)
-8. [Schéma infrastructure](#-schéma-infrastructure)
+8. [Schéma infrastructure](#schéma-infrastructure)
 
 
 ## 📋 Objectif
