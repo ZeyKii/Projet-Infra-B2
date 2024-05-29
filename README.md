@@ -105,12 +105,12 @@ Nous utiliserons des outils de gestion de projet comme **Trello** ou **Jira** po
 **Objectif :** Mettre en place les éléments du projet.
 
 **Actions :**
-- **Serveurs :**
+- **Serveurs :** (Jalon 1)
   - Installer et configurer les serveurs Windows.
   - Configurer les rôles des utilisateurs.
-- **Postes clients :**
+- **Postes clients :** (Jalon 2)
   - Installer et configurer les postes clients.
-- **Sécurité :**
+- **Sécurité :** (Jalon 3)
   - Installer et configurer le firewall.
   - Mettre en place les mesures de sécurité.
 
@@ -132,30 +132,10 @@ Nous utiliserons des outils de gestion de projet comme **Trello** ou **Jira** po
 
 ## 🗒️ Responsabilités
 
-| Tâches / Activités                 | Responsable (R)       | Autorité (A)         | Consulté (C)             | Informé (I)          |
-|------------------------------------|-----------------------|----------------------|--------------------------|----------------------|
-| **1. Définir les besoins du client** |                       |                      |                          |                      |
-| Réunion initiale                  | Fournisseur           | Fournisseur          | Client, Fournisseur      | Client               |
-| Documenter les besoins             | Fournisseur           | Fournisseur          | Client                   | Fournisseur          |
-| Obtenir l'approbation              | Fournisseur           | Client               | Fournisseur              | Fournisseur          |
-| **2. Planification**               |                       |                      |                          |                      |
-| Calendrier                         | Fournisseur           | Fournisseur          | Fournisseur              | Client               |
-| Ressources                         | Fournisseur           | Fournisseur          | Fournisseur              | Client               |
-| Communication                      | Fournisseur           | Fournisseur          | Fournisseur              | Client               |
-| **3. Réalisation**                 |                       |                      |                          |                      |
-| **Serveurs**                       |                       |                      |                          |                      |
-| Installer et configurer les serveurs Windows | Fournisseur           | Fournisseur          | Fournisseur              | Client               |
-| Configurer les rôles des utilisateurs | Fournisseur           | Fournisseur          | Fournisseur              | Client               |
-| **Postes clients**                 |                       |                      |                          |                      |
-| Installer et configurer les postes clients | Fournisseur           | Fournisseur          | Fournisseur              | Client               |
-| **Sécurité**                       |                       |                      |                          |                      |
-| Installer et configurer le firewall | Fournisseur           | Fournisseur          | Fournisseur              | Client               |
-| Mettre en place les mesures de sécurité | Fournisseur           | Fournisseur          | Fournisseur              | Client               |
-| **4. Validation**                  |                       |                      |                          |                      |
-| Tests                              | Fournisseur           | Fournisseur          | Fournisseur              | Client               |
-| Formation                          | Fournisseur           | Fournisseur          | Fournisseur              | Client               |
-| Validation finale                  | Fournisseur           | Client               | Fournisseur              | Fournisseur          |
-| **5. Clôture du projet**           |                       |                      |                          |                      |
-| Revue                              | Fournisseur           | Fournisseur          | Fournisseur, Client      | Client               |
-| Support                            | Fournisseur           | Fournisseur          | Fournisseur, Client      | Client               |
-| Rapport final                      | Fournisseur           | Fournisseur          | Fournisseur, Client      | Client               |
+| Tâches / Activités | Responsable (R) | Autorité (A)   | Consulté (C)       | Informé (I)      |
+|--------------------|-----------------|----------------|--------------------|------------------|
+| **Analyse**        | Fournisseur     | Fournisseur    | Client             | Client           |
+| **Planification**  | Fournisseur     | Fournisseur    | Client             | Client           |
+| **Réalisation**    | Fournisseur     | Fournisseur    | Client             | Client           |
+| **Validation**     | Fournisseur     | Client         | Fournisseur, Client | Client, Fournisseur |
+
