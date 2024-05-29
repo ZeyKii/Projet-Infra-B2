@@ -145,4 +145,4 @@ Nous utiliserons des outils de gestion de projet comme **Trello** ou **Jira** po
 
 ## Schéma infrastructure 
 
-![](/Projet-Infra-B2/images/Schéma%20infra.png)
+![](/images/Schémainfra.png)
