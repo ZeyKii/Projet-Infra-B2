@@ -166,6 +166,6 @@ Nous utiliserons des outils de gestion de projet comme **Trello** ou **Jira** po
 | **Réalisation**    | Fournisseur     | Fournisseur    | Client             | Client           |
 | **Validation**     | Fournisseur     | Client         | Fournisseur, Client | Client, Fournisseur |
 
-## Schéma infrastructure 
+## Schéma infrastructure
 
 ![Schéma de l'infrastructure](/images/Schémainfra.png)
