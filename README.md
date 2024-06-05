@@ -120,9 +120,8 @@ Nous utiliserons des outils de gestion de projet comme **Trello** ou **Jira** po
 - **Serveurs :** (Jalon 1)
   - Installer et configurer les serveurs Windows.
     1. Serveur AD/DHCP (Active Directory / DHCP)
-    2. Serveur de Base de Données
-    3. Serveur de Fichiers
-    4. Serveur Applicatif
+    2. Serveur de Fichiers
+    3. Serveur Applicatif
   - Configurer les rôles des utilisateurs.
 - **Postes clients :** (Jalon 2)
   - Installer et configurer les postes clients.
