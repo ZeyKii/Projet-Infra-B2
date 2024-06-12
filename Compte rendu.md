@@ -1,9 +1,8 @@
 # 🚀 Compte rendu Projet Infra (Qilby)
 ### par FERRAN Maxance et Bourdoncle Alan
 
-
-# RAPPEL : 
-Pour rappel voici notre Plan Projet :
+# RAPPEL :
+Pour rappel, voici notre Plan Projet :
 
 ## 🗂️ Plan de Projet
 ### 1. Définir les besoins du client
@@ -54,24 +53,24 @@ Pour rappel voici notre Plan Projet :
 - Support : Offrir une assistance après le déploiement.
 - Rapport final : Documenter et clôturer le projet avec la signature du client.
 
-# *Où en sommes nous ?*
+# *Où en sommes-nous ?*
 
-Dans ce projet infra nous en sommes à l'étape de la réalisation, toute les étapes précédente sont réalisées. Dans cette étape nous avons mis en place tout les élements présents sur le schéma de l'infrastructure. Cependant nous avons pu configurer correctement 3 éléments : 
+Dans ce projet infra, nous en sommes à l'étape de la réalisation. Toutes les étapes précédentes sont réalisées. Dans cette étape, nous avons mis en place tous les éléments présents sur le schéma de l'infrastructure. Cependant, nous avons pu configurer correctement trois éléments :
 
-- Le switch avec une mise en place de 3 VLAN (1 pour le serveur DHCP, 1 pour les deux autres serveurs, 1 pour les Poste client)
-- Le serveur DHCP à été configurer correctement mais n'est pas dans le bon VLAN pour le moment 
-- Le serveur Applicatif à bien rejoins le domaine mais n'est pas dans le bon VLAN et n'est pas terminé car à l'heure actuelle il n'a pas de page web HTTPS
+- Le switch avec la mise en place de trois VLAN (un pour le serveur DHCP, un pour les deux autres serveurs, un pour les postes clients)
+- Le serveur DHCP a été configuré correctement avec la mise en place du DNS, une forêt, les ip en DHCP, les rôles et les groupes mais n'est pas dans le bon VLAN pour le moment
+- Le serveur Applicatif a bien rejoint le domaine mais n'est pas dans le bon VLAN et n'est pas terminé car, à l'heure actuelle, il n'a pas de page web HTTPS
 
-Les deux serveurs peuvent se ping donc peuvent communiquer entre eux.
+Les deux serveurs peuvent se ping, donc peuvent communiquer entre eux.
 
-A l'heure actuel il nous manque des utilisateur, le serveur de fichier et les postes clients ne sont pas dans le domaine mais bien présents. Egalement il manque les 4 dossiers du serveur de fichier.
+À l'heure actuelle, il nous manque des utilisateurs, le serveur de fichiers et les postes clients ne sont pas dans le domaine mais sont bien présents. Également, il manque les quatre dossiers du serveur de fichiers.
 
-On a bien un firewall.
+Nous avons bien un firewall.
 
-Lors de la dernières séances avec PnetLab on a voulus enlever le switch et passer directement par le Firewall pour nos connexion, puis avec nos recherches on a finit par en remettre un mais en changeant ce dernier (on est passer sous un CISCO) car sa configuration était plus adéquate avec notre idée d'infrastructure.
+Lors de la dernière séance avec PnetLab, nous avons voulu enlever le switch et passer directement par le firewall pour nos connexions car le switch ne fonctionner pas correctement, on pouvait même plus l'allumer. Puis après nos recherches, nous avons fini par en remettre un mais en changeant ce dernier (nous sommes passés sous un CISCO) car sa configuration était plus adéquate avec notre idée d'infrastructure.
 
-Ainsi nous avons pu respecter notre schéma d'infrastructe initial.
+Ainsi, nous avons pu respecter notre schéma d'infrastructure initial.
 
 # Identifiant de connexion
 
-- *Serveur **AD/DHCP*** : 1 compte ***"Administrateur"***  ***|*** Mot de passe : ***Azerty33****
+- *Serveur **AD/DHCP*** : 1 compte ***"Administrateur"*** ***|*** Mot de passe : ***Azerty33****
