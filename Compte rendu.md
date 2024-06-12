@@ -71,6 +71,10 @@ Lors de la dernière séance avec PnetLab, nous avons voulu enlever le switch et
 
 Ainsi, nous avons pu respecter notre schéma d'infrastructure initial.
 
-# Identifiant de connexion
+## Identifiant de connexion
 
 - *Serveur **AD/DHCP*** : 1 compte ***"Administrateur"*** ***|*** Mot de passe : ***Azerty33****
+
+## Hors PnetLab
+
+De notre côté, lors de la dernière séance, nous avons utilisé un système de VM afin de continuer notre infrastructure. Pour gagner du temps, nous avons remis en place le serveur AD/DHCP avec cette fois-ci 4 utilisateurs. Nous avons créé seulement 2 postes clients en raison des performances de notre matériel, mais ils sont configurés avec une connexion possible pour nos utilisateurs. De plus, le serveur de fichiers a également été configuré et des permissions ont été mises en place. Pour gagner du temps, nous avions déjà de notre côté un serveur Windows qui était entièrement configuré, nous sommes donc partis de cette configuration (mère) pour créer nos 2 serveurs des clones que nous avons reconfigurer pour nos besoins.
